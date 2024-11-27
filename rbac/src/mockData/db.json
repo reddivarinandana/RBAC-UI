@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nandana R",
+      "email": "nandu@gmail.com",
+      "role": "Admin",
+      "status": "Active",
+      "permissions": {
+        "read": true,
+        "write": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "id_1732723840519_591",
+      "name": "Nandu",
+      "email": "nandu@gmail.com",
+      "role": "Editor",
+      "status": "Inactive",
+      "permissions": {
+        "read": true,
+        "write": true,
+        "delete": false
+      }
+    },
+    {
+      "id": "id_1732724198923_799",
+      "name": "Devi",
+      "email": "devi@gmail.com",
+      "role": "Viewer",
+      "status": "Active",
+      "permissions": {
+        "read": true,
+        "write": false,
+        "delete": false
+      }
+    },
+    {
+      "id": "id_1732724591022_754",
+      "name": "Nagaveni",
+      "email": "nagaveni@gmail.com",
+      "role": "Editor",
+      "status": "Active",
+      "permissions": {
+        "read": true,
+        "write": true,
+        "delete": false
+      }
+    },
+    {
+      "id": "id_1732724937827_215",
+      "name": "Ishaan",
+      "email": "ishan@gmail.com",
+      "role": "Viewer",
+      "status": "Active",
+      "permissions": {
+        "read": true,
+        "write": false,
+        "delete": false
+      }
+    }
+  ],
+  "roles": [
+    {
+      "id": "1df1",
+      "name": "Nandy",
+      "permissions": [
+        "Delete"
+      ]
+    }
+  ]
+}

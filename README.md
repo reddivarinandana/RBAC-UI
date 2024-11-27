@@ -1,4 +1,4 @@
-# User Management App
+# RBAC
 
 ## Overview
 
@@ -16,7 +16,7 @@ This application allows users to manage user accounts, including adding, editing
 1. **Clone the repository**:
     ```bash
     git clone <repository_url>
-    cd user-management-app
+    cd rbac
     ```
 
 2. **Install dependencies**:
